@@ -1,1 +1,1 @@
-Example project for the CQRS article
+Example project for the CQRS
